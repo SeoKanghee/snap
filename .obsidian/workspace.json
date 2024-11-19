@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JDBC Connection URLs of the Most Popular RDBMS"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "JDBC Connection URLs of the Most Popular RDBMS의 백링크"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "JDBC Connection URLs of the Most Popular RDBMS의 나가는 링크"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/JDBC Connection URLs of the Most Popular RDBMS.md"
-              }
+                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md"
+              },
+              "icon": "lucide-list",
+              "title": "JDBC Connection URLs of the Most Popular RDBMS 개요"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -151,15 +169,17 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc57dd12aff2546c",
+  "active": "effba10c34ac18f2",
   "lastOpenFiles": [
+    "개발 정보",
     "README.md",
-    "DB/References.md",
-    "DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+    "개발 정보/References.md",
+    "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
     "무제 파일.md",
-    "DB"
+    "개발 정보/DB"
   ]
 }
