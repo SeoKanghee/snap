@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 개발 정보/Coding Convention.md",
+                "file": "01 개발 정보/docker vdisk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Convention"
+              "title": "docker vdisk"
+            }
+          },
+          {
+            "id": "058a717f111cfef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 개발 정보/gradle/Trouble Shooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trouble Shooting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 개발 정보/Coding Convention.md",
+                "file": "01 개발 정보/gradle/Trouble Shooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Coding Convention의 백링크"
+              "title": "Trouble Shooting의 백링크"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 개발 정보/Coding Convention.md",
+                "file": "01 개발 정보/gradle/Trouble Shooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Coding Convention의 나가는 링크"
+              "title": "Trouble Shooting의 나가는 링크"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 개발 정보/Coding Convention.md"
+                "file": "01 개발 정보/gradle/Trouble Shooting.md"
               },
               "icon": "lucide-list",
-              "title": "Coding Convention 개요"
+              "title": "Trouble Shooting 개요"
             }
           },
           {
@@ -173,20 +188,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc57dd12aff2546c",
+  "active": "058a717f111cfef6",
   "lastOpenFiles": [
+    "99 Resources/intellij_gradle_run_test_using_20230223.png",
+    "99 Resources/intellij_gradle_user_home_20230223.png",
+    "01 개발 정보/gradle/How to set up Jacoco.md",
+    "01 개발 정보/gradle/Trouble Shooting.md",
+    "01 개발 정보/gradle/Defining the build order.md",
+    "99 Resources/copy_all_plugins_folder.png",
+    "01 개발 정보/gradle/How to manage versions.md",
+    "01 개발 정보/Coding Convention.md",
     "01 개발 정보/docker vdisk.md",
     "01 개발 정보/JDBC Connection URLs of the Most Popular RDBMS.md",
+    "99 Resources/exam_dsl_scope_violation.png",
+    "01 개발 정보/gradle",
     "01 개발 정보/References.md",
     "99 Resources/vdisk_compact_20231121.png",
-    "01 개발 정보/Coding Convention.md",
     "99 Resources/kelly-intellij-formatter.xml",
     "99 Resources/intellij_formatter_example.png",
     "99 Resources",
     "개발 정보/무제 폴더",
     "README.md",
     "01 개발 정보",
-    "무제 파일.md",
     "개발 정보/DB"
   ]
 }
