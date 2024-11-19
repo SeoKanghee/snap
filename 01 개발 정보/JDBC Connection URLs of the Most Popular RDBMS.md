@@ -1,6 +1,7 @@
 ---
 tags:
   - db
+  - rdbms
 ---
 
 > [!note]
