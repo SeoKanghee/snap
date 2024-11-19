@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "01 개발 정보/Coding Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDBC Connection URLs of the Most Popular RDBMS"
+              "title": "Coding Convention"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "01 개발 정보/Coding Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JDBC Connection URLs of the Most Popular RDBMS의 백링크"
+              "title": "Coding Convention의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
+                "file": "01 개발 정보/Coding Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JDBC Connection URLs of the Most Popular RDBMS의 나가는 링크"
+              "title": "Coding Convention의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md"
+                "file": "01 개발 정보/Coding Convention.md"
               },
               "icon": "lucide-list",
-              "title": "JDBC Connection URLs of the Most Popular RDBMS 개요"
+              "title": "Coding Convention 개요"
             }
           },
           {
@@ -175,10 +175,15 @@
   },
   "active": "cc57dd12aff2546c",
   "lastOpenFiles": [
-    "개발 정보/References.md",
+    "99 Resources/kelly-intellij-formatter.xml",
+    "01 개발 정보/JDBC Connection URLs of the Most Popular RDBMS.md",
+    "01 개발 정보/Coding Convention.md",
+    "99 Resources/intellij_formatter_example.png",
+    "99 Resources",
+    "개발 정보/무제 폴더",
     "README.md",
-    "개발 정보/DB/JDBC Connection URLs of the Most Popular RDBMS.md",
-    "개발 정보",
+    "01 개발 정보/References.md",
+    "01 개발 정보",
     "무제 파일.md",
     "개발 정보/DB"
   ]
