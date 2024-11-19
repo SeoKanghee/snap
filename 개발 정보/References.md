@@ -1,6 +1,6 @@
 ---
-created date: 2023-08-29
-authors: 서강희
+tags:
+  - info
 ---
 
 # References

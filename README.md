@@ -1,6 +1,6 @@
 ---
-created date: 2023-12-11
-authors: 서강희
+tags:
+  - info
 ---
 # README
 
